@@ -4,9 +4,9 @@ import java.util.Random;
 
 public class GuessNumber {
     private int my_number;
+    Random random = new Random();
 
     public void newGame() {
-        Random random = new Random();
         my_number = random.nextInt(1, 101);
     }
 
