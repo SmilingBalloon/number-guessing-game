@@ -1,0 +1,1 @@
+difficulty:EASY,attempts:4,timeTaken:18.925
